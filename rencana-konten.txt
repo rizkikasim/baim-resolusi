@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   - ES7
   - FRAMEWORK
     - vue
+    - react
 - STD DASAR
 - PHP FRAMEWORK
 - LATIHAN INGGRIS
